@@ -85,7 +85,7 @@
 <rect x="628" y="280" width="36" height="30" fill="#3DB6C2" stroke="#C98A12" stroke-width="2.5"/>
 <path d="M646.0,280 v30 M628,295.0 h36" stroke="#C98A12" stroke-width="2"/>
 <rect x="436" y="322" width="212" height="28" fill="#4A5BA6" stroke="#232B55" stroke-width="2"/>
-<text x="542" y="342" text-anchor="middle" font-family="'Times New Roman',Georgia,serif" font-weight="700" font-size="16" textLength="196" lengthAdjust="spacingAndGlyphs" fill="#1C2143">UNIVERSIDAD DE SAN ANDRÉS</text>
+<text x="542" y="342" text-anchor="middle" font-family="'Times New Roman',Georgia,serif" font-weight="700" font-size="16" textLength="196" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">UNIVERSIDAD DE SAN ANDRÉS</text>
 <rect x="420" y="372" width="36" height="32" fill="#3DB6C2" stroke="#C98A12" stroke-width="2.5"/>
 <path d="M438.0,372 v32 M420,388.0 h36" stroke="#C98A12" stroke-width="2"/>
 <rect x="472" y="372" width="36" height="32" fill="#3DB6C2" stroke="#C98A12" stroke-width="2.5"/>
