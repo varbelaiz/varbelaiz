@@ -48,11 +48,15 @@
   - Intern (2024, full-time, on-site)
     - Three months working with Microsoft Power Automate and Power Apps.
 
-## Other projects
+<p align="center">
+  <img src="assets/other-projects.svg" width="100%" alt="Other projects">
+</p>
 
 - **[moodle-cli](https://github.com/varbelaiz/moodle-cli)**: your Moodle campus from the terminal. Courses, assignments, grades and materials, plus an MCP server so an agent can look them up for you.
 
-## Certifications
+<p align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Certifications">
+</p>
 
 - **[Data Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/1XTC4LFITUDJ)** (DeepLearning.AI and AWS, 2025)
   - Introduction to Data Engineering
